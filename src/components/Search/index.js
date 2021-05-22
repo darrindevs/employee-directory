@@ -16,7 +16,7 @@ const Search = (props) => {
             name="search"
             type="text"
             className="form-control"
-            placeholder="Search for Employee"
+            placeholder="🔎   Search for Employees"
             id="search"
           />
         </div>

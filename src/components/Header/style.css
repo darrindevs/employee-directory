@@ -1,0 +1,19 @@
+/* Header CSS */
+
+.header {
+    
+    background-color: black;
+    width: 100%;
+}
+
+.heading {
+    color: white;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+
+p {
+    color: white;
+    margin-left: 5%;
+    padding-bottom: 2%;
+}

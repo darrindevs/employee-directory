@@ -7,16 +7,12 @@ import "./style.css";
 // ✅ todo render the header
 function Header() {
   return (
-    <div>
-      <div className="" id="header">
-        <div className="container">
-          <h1 className="">Employee Directory</h1>
+        <div className="header">
+          <h1 className="heading">Employee Directory</h1>
           <p className="">
             Click on name to sort or use the search box to narrow your results.
           </p>
         </div>
-      </div>
-    </div>
   );
 }
 
