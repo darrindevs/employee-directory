@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "fname": "John",
+    "phone": "555-123-4567",
+    "email": "john@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot1.jpeg"
+  },
+  {
+    "id": 2,
+    "fname": "Paul",
+    "phone": "555-234-5678",
+    "email": "paul@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot2.jpeg"
+  },
+  {
+    "id": 3,
+    "fname": "George",
+    "phone": "555-345-6789",
+    "email": "george@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Ringo",
+    "phone": "555-456-7890",
+    "email": "ringo@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot4.jpeg"
+  },
+  {
+    "id": 5,
+    "fname": "Belinda",
+    "phone": "555-567-8901",
+    "email": "belinda@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot5.jpeg"
+  },
+  {
+    "id": 6,
+    "fname": "Bob",
+    "phone": "555-678-9012",
+    "email": "bob@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot6.jpeg"
+  },
+  {
+    "id": 7,
+    "fname": "Jerry",
+    "phone": "555-789-0123",
+    "email": "jerry@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot7.jpeg"
+  },
+  {
+    "id": 8,
+    "fname": "Courtney",
+    "phone": "555-890-1234",
+    "email": "courtney@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot8.jpeg"
+  },
+  {
+    "id": 9,
+    "fname": "Kurt",
+    "phone": "555-901-234-5678",
+    "email": "kurt@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot9.jpeg"
+  },
+  {
+    "id": 10,
+    "fname": "Donna",
+    "phone": "555-012-3456",
+    "email": "donna@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot10.jpeg"
+  },
+  {
+    "id": 11,
+    "fname": "Mickey",
+    "phone": "555-098-7654",
+    "email": "mickey@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot11.jpeg"
+  },
+  {
+    "id": 12,
+    "fname": "Phil",
+    "phone": "555-987-6543",
+    "email": "phil@robots.com",
+    "image": "https://robotsss.s3-us-west-1.amazonaws.com/robot13.jpeg"
+  }
+  
+]
