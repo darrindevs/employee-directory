@@ -28,7 +28,7 @@ class Table extends React.Component {
   handleInputChange = event => {
 
     if (event.target.name === "search") {
-      const searchTerm = event.target.value.toLowerCase();
+      const searchTerm = event.target.value;
       this.setState({
         search: searchTerm
       })
