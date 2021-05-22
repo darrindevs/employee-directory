@@ -77,7 +77,7 @@ class Table extends React.Component {
             </thead>
 
             { this.state.results && this.state.results.map(item =>
-                item.name.first.toLowerCase().includes(this.state.search) ?
+                item.name.first.includes(this.state.search) ?
                   <tbody key={item.login.uuid}>
                     <tr>
                       <td ><img src={item.picture.thumbnail} className="avatar" alt="employee"/></td>
